@@ -1,0 +1,10 @@
+{
+	"name": "plsDataFactoryOdoo",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/3f180862-27a4-48e5-aeb3-8f6df02d8a3e/resourceGroups/RSK-ODOO-STG001/providers/Microsoft.Network/privateLinkServices/plsDataFactoryOdoo",
+		"groupId": "",
+		"fqdns": [
+			"cf42a8d6d3e4.dbodoostg.private.postgres.database.azure.com"
+		]
+	}
+}

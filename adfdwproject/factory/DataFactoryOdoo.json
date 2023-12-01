@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryOdoo",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ddce51e-6d59-45d4-9c40-7fb5ae8137d5",
+		"tenantId": "5ef3ea3b-97df-42ee-9bd9-11ae7068b6f3"
+	}
+}
